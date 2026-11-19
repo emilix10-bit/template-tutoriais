@@ -1,5 +1,3 @@
-site_name: Reforma Tributária nas contratações públicas - Guia SEGES
-
 theme:
   name: readthedocs
 
@@ -11,7 +9,8 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - "Versão Completa do material": manual-completo.md
+  - 1. 
+  - Versão Completa do material: manual-completo.md
 
 # Configuração dos estilos e scripts customizados
 extra_css:
